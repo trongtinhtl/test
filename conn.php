@@ -1,3 +1,5 @@
 <?php
-	$conn = pg_connect("host=ec2-54-225-237-64.compute-1.amazonaws.com port=5432 dbname=dcbsjgvtij2fj6 user=xgooqxakkzsaje password=b9d572757b80869354e69328b813e8e471f9556c366986756fcd95fa4a8e21a1"); 
+	$conn = pg_connect("host=ec2-204-236-236-188.compute-1.amazonaws.com
+ port=5432 dbname=dcqdsoabhtddvd user=frzextrtlipitm password=9bae232342aef65edb8dfa6245b7cdeba386781066030d1939c37481fa6fe435
+"); 
  ?>
